@@ -1,0 +1,7 @@
+E:\C#\WebSocket\WindowsSocketService\bin\Debug\WindowsSocketService.exe.config
+E:\C#\WebSocket\WindowsSocketService\bin\Debug\WindowsSocketService.exe
+E:\C#\WebSocket\WindowsSocketService\bin\Debug\WindowsSocketService.pdb
+E:\C#\WebSocket\WindowsSocketService\obj\Debug\WindowsSocketService.ProjectInstaller.resources
+E:\C#\WebSocket\WindowsSocketService\obj\Debug\WindowsSocketService.csproj.GenerateResource.cache
+E:\C#\WebSocket\WindowsSocketService\obj\Debug\WindowsSocketService.exe
+E:\C#\WebSocket\WindowsSocketService\obj\Debug\WindowsSocketService.pdb
